@@ -1,0 +1,42 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Game.cs">
+    <Files>
+      <File FileName="Assets\Data.cs" Line="73" Column="25" />
+      <File FileName="Assets\Game.cs" Line="315" Column="27" />
+      <File FileName="Assets\ActionObject.cs" Line="102" Column="23" />
+      <File FileName="Assets\CameraControls.cs" Line="58" Column="1" />
+      <File FileName="Assets\Fridge.cs" Line="11" Column="52" />
+      <File FileName="Assets\Activable.cs" Line="7" Column="9" />
+      <File FileName="Assets\TV.cs" Line="9" Column="39" />
+      <File FileName="Assets\CharacterControls.cs" Line="33" Column="49" />
+      <File FileName="Assets\UI\UIBrainsButton.cs" Line="15" Column="23" />
+      <File FileName="Assets\Util\SmoothAngle.cs" Line="1" Column="1" />
+      <File FileName="Assets\Util\SmoothFloat.cs" Line="27" Column="14" />
+      <File FileName="Assets\SleepingMan.cs" Line="6" Column="1" />
+      <File FileName="Assets\UI\UILog.cs" Line="49" Column="40" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GMTKJam" expanded="True">
+            <Node name="Assembly-CSharp" expanded="True">
+              <Node name="UI" expanded="True" />
+              <Node name="Game.cs" selected="True" />
+            </Node>
+            <Node name="Assembly-CSharp-Editor" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State name="__root__">
+          <Node name="GMTKJam" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
